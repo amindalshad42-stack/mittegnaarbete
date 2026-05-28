@@ -1,0 +1,19 @@
+{
+  "gender": "The gender of the student (e.g., Male, Female, Other). This helps in analyzing gender-specific trends in mental health.",
+  "age": "The age of the student in years.",
+  "city": "The city or region where the student resides, providing geographical context for the analysis.",
+  "profession": "The field of work or study of the student, which may offer insights into occupational or academic stress factors.",
+  "academicPressure": "A measure indicating the level of pressure the student faces in academic settings. This could include stress from exams, assignments, and overall academic expectations.",
+  "workPressure": "A measure of the pressure related to work or job responsibilities, relevant for students who are employed alongside their studies.",
+  "cgpa": "The cumulative grade point average of the student, reflecting overall academic performance.",
+  "studySatisfaction": "An indicator of how satisfied the student is with their studies, which can correlate with mental well-being.",
+  "jobSatisfaction": "A measure of the student's satisfaction with their job or work environment, if applicable.",
+  "sleepDuration": "The average number of hours the student sleeps per day, which is an important factor in mental health.",
+  "dietaryHabits": "An assessment of the student's eating patterns and nutritional habits, potentially impacting overall health and mood.",
+  "degree": "The academic degree or program that the student is pursuing.",
+  "suicidalThoughts": "A binary indicator (Yes/No) that reflects whether the student has ever experienced suicidal ideation.",
+  "workStudyHours": "The average number of hours per day the student dedicates to work or study, which can influence stress levels.",
+  "financialStress": "A measure of the stress experienced due to financial concerns, which may affect mental health.",
+  "familyHistoryMentalIllness": "Indicates whether there is a family history of mental illness (Yes/No), which can be a significant factor in mental health predispositions.",
+  "depression": "The target variable that indicates whether the student is experiencing depression (Yes/No). This is the primary focus of the analysis."
+}
